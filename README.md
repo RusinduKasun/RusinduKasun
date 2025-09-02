@@ -2,7 +2,7 @@
 
 🎓 **Undergraduate at SLIIT (Sri Lanka Institute of Information Technology)**  
 📚 Completed **2nd Year – Semester 1**  
-💻 Passionate about **Software Development | MERN Stack | Kotlin | Data Science**  
+💻 Passionate about **Software Development | MERN Stack | Kotlin **  
 
 ---
 
@@ -38,8 +38,8 @@
 
 ## 🌍 Connect With Me  
 - 📧 Email: yourmail@example.com  
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 🐦 [Twitter](https://twitter.com/)  
+- 💼 [LinkedIn]()  
+- 🐦 [Twitter]()  
 
 ---
 
