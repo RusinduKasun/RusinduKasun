@@ -37,7 +37,7 @@
 ---
 
 ## 🌍 Connect With Me  
-- 📧 Email: yourmail@example.com  
+- 📧 Email: rusindukasundushshantha@gmail.com  
 - 💼 [LinkedIn]()  
 - 🐦 [Twitter]()  
 
