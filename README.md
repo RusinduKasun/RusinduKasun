@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kasun!  
 
 🎓 **Undergraduate at SLIIT (Sri Lanka Institute of Information Technology)**  
-📚 Completed **2nd Year – Semester 1**  
+📚 Completed **2nd Year – Semester 2**  
 💻 Passionate about **Software Development | MERN Stack | Kotlin **  
 
 ---
