@@ -1,4 +1,5 @@
-![7342075](https://github.com/user-attachments/assets/0274f2c3-789a-42fc-8589-e983baff8adc)
+<img width="3764" height="1422" alt="image" src="https://github.com/user-attachments/assets/5aa91de5-2695-4917-8b9b-0ad857d4afea" />
+
 
 # 👋 Hi, I'm Kasun!  
 
