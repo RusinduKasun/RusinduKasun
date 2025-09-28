@@ -1,3 +1,5 @@
+![7342075](https://github.com/user-attachments/assets/0274f2c3-789a-42fc-8589-e983baff8adc)
+
 # 👋 Hi, I'm Kasun!  
 
 🎓 **Undergraduate at SLIIT (Sri Lanka Institute of Information Technology)**  
