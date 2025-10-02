@@ -64,7 +64,31 @@
 <br />
 <br />
 
-<br /><br /><br />
+***
+---
+<p align="center">
+  <!-- Most Used Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=rusindukasun&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=FF0080" 
+    alt="Top Languages" 
+  />
+</p>
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=rusindukasun&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=FF0080" 
+    alt="GitHub Stats" 
+  />
+</p>
+
+<p align="center">
+  <!-- Streak Stats -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=rusindukasun&theme=radical&hide_border=true&background=0D1117&ring=FF0080&fire=FF0080&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=AAAAAA" 
+    alt="GitHub Streak" 
+  />
+</p>
 
 ---
 <br /><br /><br />
