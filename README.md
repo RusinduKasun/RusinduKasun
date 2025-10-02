@@ -66,13 +66,9 @@
 
 ***
 ---
-<p align="center">
-  <!-- Most Used Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=rusindukasun&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=FF0080" 
-    alt="Top Languages" 
-  />
-</p>
+
+
+
 
 <p align="center">
   <!-- GitHub Stats -->
@@ -89,7 +85,13 @@
     alt="GitHub Streak" 
   />
 </p>
-
+  <!-- Most Used Languages -->
+  <p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=rusindukasun&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=FF0080" 
+    alt="Top Languages" 
+  />
+    </p>
 ---
 <br /><br /><br />
 ## 🌍 Connect With Me  
