@@ -92,12 +92,20 @@
     alt="Top Languages" 
   />
     </p>
----
-<br /><br /><br />
-## 🌍 Connect With Me  
-- 📧 Email: rusindukasundushshantha@gmail.com  
-- 💼 [LinkedIn]()  
-- 🐦 [Twitter]()  
+
+## 🌍 Connect With Me   ##
+
+<p align="center">
+  <a href="mailto:rusindukasundushshantha@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/🐦%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</p>
 
 ---
 
