@@ -10,6 +10,7 @@
 💻 Passionate about **Software Development | MERN Stack | Kotlin **  
 
 ---
+---
 
 ## 🚀 About Me  
 - 🔭 Currently learning advanced **Web Development** and **Mobile App Development**  
