@@ -1,9 +1,8 @@
-<img width="3764" height="1422" alt="image" src="https://github.com/user-attachments/assets/5aa91de5-2695-4917-8b9b-0ad857d4afea" />
-
+![Banner GitHub](https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/fe054170-c69a-41d2-8e73-f7f239ebc046)
 
 # 👋 Hi, I'm Kasun!  
 
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 🎓 **Undergraduate at SLIIT (Sri Lanka Institute of Information Technology)**  
 📚 Completed **2nd Year – Semester 2**  
@@ -17,9 +16,9 @@
 - 🌱 Exploring **Cloud Computing** & **AI/ML**  
 - 🎯 Goal: Become a **Full-Stack Engineer** and contribute to impactful projects  
 - ⚡ Fun fact: I love solving coding challenges & exploring new tech trends  
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
----
-
+## Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 ## 🛠️ Tech Stack  
 ### 💻 Programming & Scripting  
 - Java | Kotlin | Python | JavaScript | TypeScript  
@@ -97,7 +96,7 @@
 
 
 
-## 🌍 Connect With Me   ##
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> ## 🌍 Connect With Me   ##
 
 <p align="center">
   <a href="mailto:rusindukasundushshantha@gmail.com">
