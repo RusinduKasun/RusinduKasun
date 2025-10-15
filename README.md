@@ -1,14 +1,15 @@
 ![Banner GitHub](https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/fe054170-c69a-41d2-8e73-f7f239ebc046)
 
+---
+
 # 👋 Hi, I'm Kasun!  
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 🎓 **Undergraduate at SLIIT (Sri Lanka Institute of Information Technology)**  
 📚 Completed **2nd Year – Semester 2**  
-💻 Passionate about **Software Development | MERN Stack | Kotlin **  
+💻 Passionate about **Software Development | MERN Stack | Kotlin**  
 
----
 ---
 
 ## 🚀 About Me  
@@ -16,87 +17,88 @@
 - 🌱 Exploring **Cloud Computing** & **AI/ML**  
 - 🎯 Goal: Become a **Full-Stack Engineer** and contribute to impactful projects  
 - ⚡ Fun fact: I love solving coding challenges & exploring new tech trends  
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
+---
+
+## 🐍 GitHub Contribution Snake (with Dark Frame)
+
+<div align="center" style="padding:15px;border-radius:14px;background:#0b1220;box-shadow:0 6px 20px rgba(2,6,23,0.6);border:1px solid rgba(255,255,255,0.06);max-width:520px;">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack  
+
 ### 💻 Programming & Scripting  
-- Java | Kotlin | Python | JavaScript | TypeScript  
+Java | Kotlin | Python | JavaScript | TypeScript  
 
 ### 🌐 Web Development  
-- React.js | Node.js | Express.js | TailwindCSS  
-- MongoDB | MySQL | Firebase  
+React.js | Node.js | Express.js | TailwindCSS  
+MongoDB | MySQL | Firebase  
 
 ### 📱 Mobile Development  
-- Android (Kotlin) | Flutter (basic)  
+Android (Kotlin) | Flutter (basic)  
 
 ### ⚙️ Tools & Platforms  
-- Git | GitHub | VS Code | IntelliJ | Figma | Postman  
+Git | GitHub | VS Code | IntelliJ | Figma | Postman  
 
 ---
 
+## 🧠 Current Learning  
 
-<!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
-<br />
+- Deepening my knowledge in **Machine Learning** and **AI**  
+- Exploring advanced **React.js** patterns and state management  
+- Learning **AWS** and **Azure** for cloud computing  
 
-<h3 align="left">Current Learning</h3>
-<ul align="left">
-  <li>Deepening my knowledge in Machine Learning and AI.</li>
-  <li>Exploring advanced React.js patterns and state management techniques.</li>
-  <li>Improving my skills in cloud computing with AWS and Azure.</li>
-</ul>
-  
-<h3 align="left"></h3>
-<ul align="left">
- 
-</ul>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-***
 ---
 
-
-
+<h2 align="center">🧩 Tech Stack & Latest GIF</h2>
 
 <p align="center">
-  <!-- GitHub Stats -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+    <img alt="Skills animation" src="./Skills_Animation_White.gif" width="70%">
+  </picture>
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=rusindukasun&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=FF0080" 
-    alt="GitHub Stats" 
+    alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
-  <!-- Streak Stats -->
   <img 
     src="https://github-readme-streak-stats.herokuapp.com?user=rusindukasun&theme=radical&hide_border=true&background=0D1117&ring=FF0080&fire=FF0080&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=AAAAAA" 
-    alt="GitHub Streak" 
+    alt="GitHub Streak"
   />
 </p>
-  <!-- Most Used Languages -->
-  <p align="center">
+
+<p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=rusindukasun&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=FF0080" 
-    alt="Top Languages" 
+    alt="Top Languages"
   />
-    </p>
+</p>
 
+---
 
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> ## 🌍 Connect With Me   ##
+## 🌍 Connect With Me  
 
 <p align="center">
   <a href="mailto:rusindukasundushshantha@gmail.com">
@@ -112,4 +114,4 @@
 
 ---
 
-✨ *“Code, Learn, Share, and Grow every single day!”* 
+✨ *“Code, Learn, Share, and Grow every single day!”*
