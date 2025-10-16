@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 900 260" width="900" height="260" role="img" aria-labelledby="titleDesc">
+  <title id="titleDesc">Hacked Terminal Animation</title>
+
+  <defs>
+    <linearGradient id="bg" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#071019"/>
+      <stop offset="1" stop-color="#001018"/>
+    </linearGradient>
+
+    <style type="text/css"><![CDATA[
+      .frame { fill: url(#bg); stroke:#08202a; stroke-width:2; rx:8; }
+      .prompt { font-family: "Source Code Pro", Consolas, "Courier New", monospace;
+               font-size:16px; fill:#9efc9e; }
+      .meta  { font-size:12px; fill:#6ec6ff; }
+      .muted { fill:#7a8a92; font-size:12px; }
+      .cursor { fill:#9efc9e; }
+    ]]></style>
+  </defs>
+
+  <!-- background card -->
+  <rect class="frame" x="10" y="10" rx="10" width="880" height="240"/>
+
+  <!-- header "terminal" dots -->
+  <g transform="translate(30,34)">
+    <circle cx="0" cy="0" r="6" fill="#ff5f56"/>
+    <circle cx="20" cy="0" r="6" fill="#ffbd2e"/>
+    <circle cx="40" cy="0" r="6" fill="#27c93f"/>
+  </g>
+
+  <!-- meta line -->
+  <text x="32" y="56" class="meta">user@kasun-machine:~$ <tspan class="muted">Running...</tspan></text>
+
+  <!-- terminal body -->
+  <g transform="translate(32,86)">
+    <!-- line 1 -->
+    <text class="prompt" id="l1" x="0" y="0">⟫ scanning open ports..</text>
+    <animate xlink:href="#l1" attributeName="opacity" values="0;1" dur="0.6s" begin="0.2s" fill="freeze"/>
+
+    <!-- line 2: appears later -->
+    <text class="prompt" id="l2" x="0" y="30" opacity="0">⟫ found service: ssh (22)</text>
+    <animate xlink:href="#l2" attributeName="opacity" values="0;1" dur="0.6s" begin="0.9s" fill="freeze"/>
+
+    <!-- line 3: simulated typing effect by revealing groups -->
+    <g id="typed" opacity="0">
+      <text class="prompt" x="0" y="60">⟫ exploit: </text>
+      <text class="prompt" x="90" y="60" id="typed-text">initializing</text>
+    </g>
+    <animate xlink:href="#typed" attributeName="opacity" values="0;1" dur="0.4s" begin="1.6s" fill="freeze"/>
+
+    <!-- change the 'typed-text' using opacity sequence to simulate typing -->
+    <text class="prompt" x="90" y="60" id="t1" opacity="0">i</text>
+    <text class="prompt" x="100" y="60" id="t2" opacity="0">in</text>
+    <text class="prompt" x="120" y="60" id="t3" opacity="0">init</text>
+    <text class="prompt" x="150" y="60" id="t4" opacity="0">initial</text>
+    <text class="prompt" x="190" y="60" id="t5" opacity="0">initializing</text>
+
+    <animate xlink:href="#t1" attributeName="opacity" values="0;1" dur="0.12s" begin="1.8s" fill="freeze"/>
+    <animate xlink:href="#t2" attributeName="opacity" values="0;1" dur="0.12s" begin="1.94s" fill="freeze"/>
+    <animate xlink:href="#t3" attributeName="opacity" values="0;1" dur="0.12s" begin="2.08s" fill="freeze"/>
+    <animate xlink:href="#t4" attributeName="opacity" values="0;1" dur="0.12s" begin="2.22s" fill="freeze"/>
+    <animate xlink:href="#t5" attributeName="opacity" values="0;1" dur="0.12s" begin="2.36s" fill="freeze"/>
+
+    <!-- line 4: progress bar -->
+    <rect x="0" y="90" width="560" height="12" rx="6" fill="#08202a"/>
+    <rect x="2" y="92" width="0" height="8" rx="4" fill="#9efc9e" id="bar"/>
+    <animate xlink:href="#bar" attributeName="width" from="0" to="556" dur="2.2s" begin="2.6s" fill="freeze"/>
+
+    <text class="muted" x="570" y="100" font-size="11" id="percent">0%</text>
+    <!-- percent change -->
+    <text x="570" y="100" id="p1" class="muted" opacity="0">25%</text>
+    <text x="570" y="100" id="p2" class="muted" opacity="0">50%</text>
+    <text x="570" y="100" id="p3" class="muted" opacity="0">75%</text>
+    <text x="570" y="100" id="p4" class="muted" opacity="0">100%</text>
+
+    <animate xlink:href="#percent" attributeName="opacity" values="1;0" dur="0.01s" begin="4.9s" fill="freeze"/>
+    <animate xlink:href="#p1" attributeName="opacity" values="0;1" dur="0.01s" begin="3.01s" fill="freeze"/>
+    <animate xlink:href="#p2" attributeName="opacity" values="0;1" dur="0.01s" begin="3.9s" fill="freeze"/>
+    <animate xlink:href="#p3" attributeName="opacity" values="0;1" dur="0.01s" begin="4.4s" fill="freeze"/>
+    <animate xlink:href="#p4" attributeName="opacity" values="0;1" dur="0.01s" begin="4.9s" fill="freeze"/>
+
+    <!-- final message -->
+    <text class="prompt" x="0" y="130" id="final" opacity="0">⟫ access granted — payload deployed</text>
+    <animate xlink:href="#final" attributeName="opacity" values="0;1" dur="0.6s" begin="5.2s" fill="freeze"/>
+
+    <!-- blinking cursor at end -->
+    <rect x="335" y="58" width="8" height="18" class="cursor" opacity="1" rx="2" id="cursor">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- small footer -->
+  <text x="32" y="230" class="muted">⟫ status: done</text>
+</svg>
