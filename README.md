@@ -19,10 +19,18 @@
 - ⚡ Fun fact: I love solving coding challenges & exploring new tech trends  
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
 ---
+<div align="center">
 
-## 🐍 GitHub Contribution Snake (with Dark Frame)
+  <img src="https://github.com/user-attachments/assets/adba5986-9951-4c44-9bb4-c34993e00386" 
+       alt="AI-powered marketing tools abstract" 
+       width="100" 
+       style="border-radius:12px;box-shadow:0 4px 14px rgba(0,0,0,0.3);" />
+
+  <h2>🐍 GitHub Contribution Snake (with Dark Frame)</h2>
+
+</div>
+
 
 <div align="center" style="padding:15px;border-radius:14px;background:#0b1220;box-shadow:0 6px 20px rgba(2,6,23,0.6);border:1px solid rgba(255,255,255,0.06);max-width:520px;">
 
