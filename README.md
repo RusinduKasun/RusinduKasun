@@ -2,6 +2,7 @@
 
 ---
 
+
 # 👋 Hi, I'm Kasun!  
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -22,10 +23,7 @@
 ---
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/adba5986-9951-4c44-9bb4-c34993e00386" 
-       alt="AI-powered marketing tools abstract" 
-       width="100" 
-       style="border-radius:12px;box-shadow:0 4px 14px rgba(0,0,0,0.3);" />
+<img width="500" height="310" alt="light" src="https://github.com/user-attachments/assets/400cbea1-bd6d-42e2-90d9-9852826e4564" />
 
   <h2>🐍 GitHub Contribution Snake (with Dark Frame)</h2>
 
