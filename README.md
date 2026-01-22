@@ -1,7 +1,12 @@
-![Banner GitHub](https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/fe054170-c69a-41d2-8e73-f7f239ebc046)
+
+
+<img width="1536" height="1024" alt="ChatGPT Image Jan 23, 2026, 12_46_01 AM" src="https://github.com/user-attachments/assets/686db8cf-a93b-4d14-95e1-5e610abd0a80" />
+
+
+
+
 
 ---
-
 
 # 👋 Hi, I'm Kasun!  
 
